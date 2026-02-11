@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エリカの憂い / 香椎モイミ feat. 星界",
+  "base_artist": "香椎モイミ",
+  "createdAt": "2026-02-11T12:37:04.192346Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エリカの憂い",
+      "artist": "香椎モイミ, 星界",
+      "has_synced": false,
+      "path": "select/pl_01_エリカの憂い_香椎モイミ,_星界.txt"
+    }
+  ]
+}
